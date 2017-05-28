@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "start": "node app.js"
+    "start": "nodemon app.js"
   },
   "keywords": [
     "web",
@@ -16,7 +16,7 @@
     "node",
     "express"
   ],
-  "author": "Kristof Michiels",
+  "author": "Natasha",
   "license": "ISC"
   },
   "homepage": "",
